@@ -10,6 +10,7 @@ A comprehensive project that utilizes web scraping, deep learning model training
 - [Installation](#installation)
 - [Usage](#usage)
 - [Project Structure](#project-structure)
+- [Results](#results)
 - [Contributing](#contributing)
 
 ## Introduction
@@ -97,7 +98,9 @@ The project structure is as follows:
 - `requirements.txt`: List of Python dependencies.
   - This file lists all the Python dependencies required for the project, including Flask, Selenium, PyTorch, and other libraries.
 - `img_dataset/`: Directory for storing scraped images.
-- `ml_model/`: Directory for storing trained model files.
+- `ml_model/`: Directory for storing trained model files. 
+## Results
+![WhatsApp Image 2024-04-02 at 21 09 16](https://github.com/musk-singhal/ApparelSense-Smart-Garment-Classification/assets/34962939/a74289c7-2b81-466e-9b05-357d628d1c77)
 
 
 ## Contributing
