@@ -100,6 +100,7 @@ The project structure is as follows:
 - `img_dataset/`: Directory for storing scraped images.
 - `ml_model/`: Directory for storing trained model files. 
 ## Results
+Learning Curve:
 ![WhatsApp Image 2024-04-02 at 21 09 16](https://github.com/musk-singhal/ApparelSense-Smart-Garment-Classification/assets/34962939/a74289c7-2b81-466e-9b05-357d628d1c77)
 
 
