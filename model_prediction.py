@@ -54,7 +54,7 @@ def load_class_names(class_names_path):
 
 
 def predict_label(
-        image_url=r"C:\Users\mukul\PycharmProjects\pythonProject\img_dataset\men full sleeves t-shirts\1.png",
+        image_url=r"/Users/muskan/Desktop/images/male_full_sleeve/image_1.jpg",
         model_save_path='ml_model/model_resnet18.pth'
 
 ):
