@@ -40,7 +40,7 @@ def classify_image():
         predicted_gender, predicted_sleeve = AutoClassification().prediction(image)
 
         # Return the predicted class
-        return jsonify({'GENDER': predicted_gender, 'CLASS': predicted_sleeve}), 200
+        return jsonify({'GENDER': predicted_gender, 'SLEEVE': predicted_sleeve}), 200
 
     except Exception as e:
 
