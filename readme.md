@@ -110,8 +110,10 @@ Learning Curve:
 
 Postman API Samples:
 
-<img width="1728" alt="Screenshot 2024-04-03 at 10 05 36 PM" src="https://github.com/musk-singhal/ApparelSense-Smart-Garment-Classification/assets/34962939/b0a73f4c-e763-425c-98eb-97bd34f17fb6">
-<img width="1728" alt="Screenshot 2024-04-03 at 10 10 00 PM" src="https://github.com/musk-singhal/ApparelSense-Smart-Garment-Classification/assets/34962939/5f8d472d-df27-4b67-ae04-b185dc48c0b4">
+<img width="180" alt="Screenshot 2024-04-03 at 10 05 36 PM" src="https://github.com/musk-singhal/ApparelSense-Smart-Garment-Classification/assets/34962939/b0a73f4c-e763-425c-98eb-97bd34f17fb6">
+<img width="180" alt="Screenshot 2024-04-03 at 10 10 00 PM" src="https://github.com/musk-singhal/ApparelSense-Smart-Garment-Classification/assets/34962939/5f8d472d-df27-4b67-ae04-b185dc48c0b4">
+<img width="180" alt="Screenshot 2024-04-03 at 10 13 20 PM" src="https://github.com/musk-singhal/ApparelSense-Smart-Garment-Classification/assets/34962939/7349e85e-17e9-4fc0-8ac3-8b939cfb2e9e">
+<img width="180" alt="Screenshot 2024-04-03 at 10 15 36 PM" src="https://github.com/musk-singhal/ApparelSense-Smart-Garment-Classification/assets/34962939/8811dabd-503a-4d88-a931-98f41b1c096a">
 
 
 
