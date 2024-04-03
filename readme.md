@@ -100,10 +100,12 @@ The project structure is as follows:
 - `img_dataset/`: Directory for storing scraped images.
 - `ml_model/`: Directory for storing trained model files. 
 ## Results
-Learning Curve:
+
+**Learning Curve:**
 
 ![WhatsApp Image 2024-04-02 at 21 09 16](https://github.com/musk-singhal/ApparelSense-Smart-Garment-Classification/assets/34962939/a74289c7-2b81-466e-9b05-357d628d1c77)
-Postman API Samples:
+
+**Postman API Samples:**
 
 <img width="500" alt="Screenshot 2024-04-03 at 10 05 36 PM" src="https://github.com/musk-singhal/ApparelSense-Smart-Garment-Classification/assets/34962939/b0a73f4c-e763-425c-98eb-97bd34f17fb6">
 <img width="500" alt="Screenshot 2024-04-03 at 10 10 00 PM" src="https://github.com/musk-singhal/ApparelSense-Smart-Garment-Classification/assets/34962939/5f8d472d-df27-4b67-ae04-b185dc48c0b4">
@@ -113,7 +115,8 @@ Postman API Samples:
 
 
 
-Sample Output:
+
+**Sample Output:**
 
 <img width="844" alt="Screenshot 2024-04-03 at 10 03 30 PM" src="https://github.com/musk-singhal/ApparelSense-Smart-Garment-Classification/assets/34962939/11be8a26-feed-4c2f-bf0e-f46a577fb2af">
 
