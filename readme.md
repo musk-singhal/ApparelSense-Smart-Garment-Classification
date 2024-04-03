@@ -1,6 +1,7 @@
 # ApparelSense: Smart Garment Classification
 
 A comprehensive project that utilizes web scraping, deep learning model training, and Docker deployment to classify clothing images by gender and sleeve type.
+Overview: https://www.youtube.com/watch?v=olwgkY31yec
 
 ## Table of Contents
 
